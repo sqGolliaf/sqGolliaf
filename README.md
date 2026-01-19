@@ -20,7 +20,8 @@
 
 ### 👨‍💻 About Me
 I am a Backend Developer from Russia.
-I study and work hard to become a good programmer.
+<p>
+Always learning and working hard to improve myself.
 
 ---
 
